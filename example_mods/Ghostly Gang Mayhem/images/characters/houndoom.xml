@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="houndoom.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nightflare Down0000" x="5148" y="100" width="662" height="408" frameX="-1" frameY="-117" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0001" x="5902" y="100" width="663" height="440" frameX="0" frameY="-85" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0002" x="6657" y="100" width="637" height="473" frameX="-18" frameY="-52" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0003" x="7386" y="100" width="627" height="501" frameX="-28" frameY="-24" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0004" x="100" y="719" width="587" height="525" frameX="-43" frameY="0" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0005" x="779" y="719" width="607" height="459" frameX="-23" frameY="-66" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0006" x="1478" y="719" width="607" height="428" frameX="-23" frameY="-97" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0007" x="2177" y="719" width="607" height="425" frameX="-23" frameY="-100" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0008" x="2177" y="719" width="607" height="425" frameX="-23" frameY="-100" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare Down0009" x="2177" y="719" width="607" height="425" frameX="-23" frameY="-100" frameWidth="663" frameHeight="525"/>
+	<SubTexture name="Nightflare LEFT0000" x="2876" y="719" width="414" height="507"/>
+	<SubTexture name="Nightflare LEFT0001" x="3382" y="719" width="385" height="507" frameX="-29" frameY="0" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare LEFT0002" x="3859" y="719" width="372" height="492" frameX="-41" frameY="-15" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare LEFT0003" x="4323" y="719" width="336" height="492" frameX="-77" frameY="-15" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare LEFT0004" x="4751" y="719" width="296" height="478" frameX="-115" frameY="-29" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare LEFT0005" x="4751" y="719" width="296" height="478" frameX="-115" frameY="-29" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare LEFT0006" x="4751" y="719" width="296" height="478" frameX="-115" frameY="-29" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare LEFT0007" x="4751" y="719" width="296" height="478" frameX="-115" frameY="-29" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare LEFT0008" x="4751" y="719" width="296" height="478" frameX="-115" frameY="-29" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare LEFT0009" x="4751" y="719" width="296" height="478" frameX="-115" frameY="-29" frameWidth="414" frameHeight="507"/>
+	<SubTexture name="Nightflare Right0000" x="5139" y="719" width="613" height="433" frameX="-12" frameY="-61" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0001" x="5844" y="719" width="613" height="455" frameX="-12" frameY="-39" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0002" x="6549" y="719" width="610" height="488" frameX="-7" frameY="-6" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0003" x="7251" y="719" width="610" height="473" frameX="-7" frameY="-21" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0004" x="100" y="1336" width="551" height="494" frameX="0" frameY="0" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0005" x="743" y="1336" width="576" height="494" frameX="0" frameY="0" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0006" x="743" y="1336" width="576" height="494" frameX="0" frameY="0" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0007" x="1411" y="1336" width="534" height="494" frameX="0" frameY="0" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0008" x="1411" y="1336" width="534" height="494" frameX="0" frameY="0" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Right0009" x="1411" y="1336" width="534" height="494" frameX="0" frameY="0" frameWidth="625" frameHeight="494"/>
+	<SubTexture name="Nightflare Up0000" x="100" y="100" width="567" height="527" frameX="0" frameY="0" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0001" x="759" y="100" width="548" height="527" frameX="-19" frameY="0" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0002" x="1399" y="100" width="543" height="499" frameX="-44" frameY="-28" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0003" x="2034" y="100" width="506" height="499" frameX="-74" frameY="-28" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0004" x="2632" y="100" width="537" height="463" frameX="-61" frameY="-64" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0005" x="3261" y="100" width="537" height="463" frameX="-61" frameY="-64" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0006" x="3261" y="100" width="537" height="463" frameX="-61" frameY="-64" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0007" x="3890" y="100" width="537" height="463" frameX="-61" frameY="-64" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0008" x="4519" y="100" width="537" height="463" frameX="-61" frameY="-64" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="Nightflare Up0009" x="4519" y="100" width="537" height="463" frameX="-61" frameY="-64" frameWidth="598" frameHeight="527"/>
+	<SubTexture name="nightflare idle0000" x="2037" y="1336" width="431" height="481" frameX="-126" frameY="-43" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0001" x="2560" y="1336" width="431" height="412" frameX="-126" frameY="-112" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0002" x="3083" y="1336" width="435" height="421" frameX="-125" frameY="-103" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0003" x="3610" y="1336" width="435" height="421" frameX="-125" frameY="-103" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0004" x="4137" y="1336" width="428" height="440" frameX="-124" frameY="-84" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0005" x="4657" y="1336" width="428" height="440" frameX="-124" frameY="-84" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0006" x="5177" y="1336" width="424" height="518" frameX="-124" frameY="-6" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0007" x="5693" y="1336" width="518" height="457" frameX="-30" frameY="-67" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0008" x="6303" y="1336" width="534" height="447" frameX="-7" frameY="-77" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0009" x="6929" y="1336" width="541" height="447" frameX="0" frameY="-77" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0010" x="100" y="1946" width="540" height="447" frameX="-1" frameY="-77" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0011" x="732" y="1946" width="508" height="458" frameX="-33" frameY="-66" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0012" x="1332" y="1946" width="442" height="492" frameX="-99" frameY="-32" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle0013" x="1866" y="1946" width="417" height="524" frameX="-124" frameY="0" frameWidth="560" frameHeight="524"/>
+</TextureAtlas>

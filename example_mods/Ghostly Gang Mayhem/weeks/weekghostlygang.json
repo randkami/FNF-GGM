@@ -1,0 +1,48 @@
+{
+	"storyName": "Ghostly Gang's Problem",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"houndoom",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"mysterious-dungeon",
+			"h",
+			[
+				140,
+				60,
+				160
+			]
+		],
+		[
+			"dark-type-scuffle",
+			"nf",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"hypermode",
+			"nf",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"weekName": "GhostlyGang1"
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="H_Dialogue_Right.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="H_Dialogue_Enemy0000" x="0" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0001" x="0" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0002" x="323" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0003" x="323" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0004" x="646" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0005" x="646" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0006" x="323" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0007" x="323" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0008" x="0" y="0" width="323" height="323"/>
+	<SubTexture name="H_Dialogue_Enemy0009" x="0" y="0" width="323" height="323"/>
+</TextureAtlas>

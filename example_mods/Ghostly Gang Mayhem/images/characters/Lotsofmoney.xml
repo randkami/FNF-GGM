@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lotsofmoney.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Darkening_Down0000" x="0" y="0" width="307" height="377" frameX="0" frameY="-7" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0001" x="307" y="0" width="307" height="377" frameX="0" frameY="-7" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0002" x="614" y="0" width="295" height="380" frameX="0" frameY="-4" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0003" x="909" y="0" width="295" height="380" frameX="0" frameY="-4" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0004" x="1204" y="0" width="284" height="385" frameX="0" frameY="0" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0005" x="1488" y="0" width="284" height="385" frameX="0" frameY="0" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0006" x="1772" y="0" width="285" height="384" frameX="0" frameY="-1" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0007" x="2057" y="0" width="285" height="384" frameX="0" frameY="-1" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0008" x="2342" y="0" width="285" height="384" frameX="0" frameY="-1" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Down0009" x="2627" y="0" width="285" height="384" frameX="0" frameY="-1" frameWidth="307" frameHeight="385"/>
+	<SubTexture name="Darkening_Idle0000" x="2912" y="0" width="358" height="405" frameX="0" frameY="-10" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0001" x="2912" y="0" width="358" height="405" frameX="0" frameY="-10" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0002" x="3270" y="0" width="358" height="410" frameX="-3" frameY="-6" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0003" x="3270" y="0" width="358" height="410" frameX="-3" frameY="-6" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0004" x="3628" y="0" width="352" height="417" frameX="-6" frameY="0" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0005" x="3628" y="0" width="352" height="417" frameX="-6" frameY="0" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0006" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0007" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0008" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0009" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0010" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0011" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0012" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0013" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Idle0014" x="0" y="417" width="350" height="416" frameX="-6" frameY="-1" frameWidth="361" frameHeight="417"/>
+	<SubTexture name="Darkening_Left0000" x="350" y="417" width="395" height="475" frameX="-5" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0001" x="350" y="417" width="395" height="475" frameX="-5" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0002" x="745" y="417" width="396" height="475" frameX="-2" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0003" x="745" y="417" width="396" height="475" frameX="-2" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0004" x="1141" y="417" width="387" height="475" frameX="0" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0005" x="1141" y="417" width="387" height="475" frameX="0" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0006" x="1528" y="417" width="387" height="475" frameX="0" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0007" x="1528" y="417" width="387" height="475" frameX="0" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0008" x="1528" y="417" width="387" height="475" frameX="0" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Left0009" x="1528" y="417" width="387" height="475" frameX="0" frameY="0" frameWidth="400" frameHeight="475"/>
+	<SubTexture name="Darkening_Right0000" x="1915" y="417" width="389" height="436" frameX="0" frameY="-1" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0001" x="1915" y="417" width="389" height="436" frameX="0" frameY="-1" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0002" x="2304" y="417" width="376" height="437" frameX="-8" frameY="0" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0003" x="2304" y="417" width="376" height="437" frameX="-8" frameY="0" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0004" x="2680" y="417" width="378" height="436" frameX="-7" frameY="-1" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0005" x="2680" y="417" width="378" height="436" frameX="-7" frameY="-1" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0006" x="3058" y="417" width="378" height="436" frameX="-7" frameY="-1" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0007" x="3058" y="417" width="378" height="436" frameX="-7" frameY="-1" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0008" x="3058" y="417" width="378" height="436" frameX="-7" frameY="-1" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Right0009" x="3058" y="417" width="378" height="436" frameX="-7" frameY="-1" frameWidth="389" frameHeight="437"/>
+	<SubTexture name="Darkening_Up0000" x="3436" y="417" width="321" height="431"/>
+	<SubTexture name="Darkening_Up0001" x="3436" y="417" width="321" height="431"/>
+	<SubTexture name="Darkening_Up0002" x="3757" y="417" width="311" height="427" frameX="-6" frameY="-3" frameWidth="321" frameHeight="431"/>
+	<SubTexture name="Darkening_Up0003" x="3757" y="417" width="311" height="427" frameX="-6" frameY="-3" frameWidth="321" frameHeight="431"/>
+	<SubTexture name="Darkening_Up0004" x="0" y="892" width="287" height="423" frameX="-25" frameY="-6" frameWidth="321" frameHeight="431"/>
+	<SubTexture name="Darkening_Up0005" x="0" y="892" width="287" height="423" frameX="-25" frameY="-6" frameWidth="321" frameHeight="431"/>
+	<SubTexture name="Darkening_Up0006" x="287" y="892" width="297" height="423" frameX="-15" frameY="-6" frameWidth="321" frameHeight="431"/>
+	<SubTexture name="Darkening_Up0007" x="287" y="892" width="297" height="423" frameX="-15" frameY="-6" frameWidth="321" frameHeight="431"/>
+	<SubTexture name="Darkening_Up0008" x="287" y="892" width="297" height="423" frameX="-15" frameY="-6" frameWidth="321" frameHeight="431"/>
+	<SubTexture name="Darkening_Up0009" x="287" y="892" width="297" height="423" frameX="-15" frameY="-6" frameWidth="321" frameHeight="431"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nightflare idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nightflare Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nightflare Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nightflare LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nightflare Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/houndoom",
+	"position": [
+		-180,
+		280
+	],
+	"healthicon": "icon-nf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		110,
+		40
+	],
+	"camera_position": [
+		-70,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.10000000000001
+}

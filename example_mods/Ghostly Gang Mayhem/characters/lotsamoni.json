@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Darkening_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Darkening_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				128
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Darkening_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Darkening_Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				105,
+				103
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Darkening_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lotsofmoney",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dlot",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		55,
+		55
+	],
+	"camera_position": [
+		-200,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

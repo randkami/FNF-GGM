@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		100
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "H_Dialogue_Enemy",
+			"idle_name": "H_Dialogue_Enemy0000"
+		}
+	],
+	"image": "H_Dialogue_Right"
+}

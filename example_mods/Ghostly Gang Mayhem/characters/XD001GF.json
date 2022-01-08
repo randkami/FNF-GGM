@@ -1,0 +1,70 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				1
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "XD001 BumpinSadGF",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				5,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "XD001 BumpinLeft"
+		},
+		{
+			"offsets": [
+				5,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "XD001 BumpinRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XD001",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		0,
+		157
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

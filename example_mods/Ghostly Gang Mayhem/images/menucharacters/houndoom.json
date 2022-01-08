@@ -1,0 +1,10 @@
+{
+	"idle_anim": "nightflare idle yelloversion",
+	"confirm_anim": "nightflare idle yelloversion",
+	"position": [
+		252,
+		93
+	],
+	"scale": 0.75,
+	"image": "Menu_Houndoom"
+}

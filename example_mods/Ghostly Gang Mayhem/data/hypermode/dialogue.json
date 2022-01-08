@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "H_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For the love of... Nightflare... snap out of it. You're better than this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "NF_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "H_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "H_Dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So be it. Forgive me buddy, but i have to go all out on you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "NF_Dialogue",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "!!!"
+		}
+	]
+}

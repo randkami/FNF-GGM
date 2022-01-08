@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				114
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "haunter Left Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "haunter Down Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				277
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "haunter Up Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				193
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "haunter Right Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				114
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Haunter Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				100
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Haunter Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				277
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Haunter Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				253
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Haunter Right Miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-15,
+				130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "haunter idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				119
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "HaunterDeathConfirmRedone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				105
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "HaunterDeathRedone",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-73,
+				99
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "HaunterDeathLoopRedone",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/haunter",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-h",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		20,
+		255
+	],
+	"camera_position": [
+		-150,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

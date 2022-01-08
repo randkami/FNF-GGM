@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Houndoom.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nightflare idle yelloversion0000" x="0" y="0" width="431" height="481" frameX="-126" frameY="-43" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0001" x="431" y="0" width="431" height="412" frameX="-126" frameY="-112" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0002" x="862" y="0" width="435" height="421" frameX="-125" frameY="-103" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0003" x="1297" y="0" width="435" height="421" frameX="-125" frameY="-103" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0004" x="0" y="481" width="428" height="440" frameX="-124" frameY="-84" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0005" x="428" y="481" width="428" height="440" frameX="-124" frameY="-84" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0006" x="856" y="481" width="424" height="518" frameX="-124" frameY="-6" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0007" x="1280" y="481" width="518" height="457" frameX="-30" frameY="-67" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0008" x="0" y="999" width="534" height="447" frameX="-7" frameY="-77" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0009" x="534" y="999" width="541" height="447" frameX="0" frameY="-77" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0010" x="1075" y="999" width="540" height="447" frameX="-1" frameY="-77" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0011" x="0" y="1446" width="508" height="458" frameX="-33" frameY="-66" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0012" x="508" y="1446" width="442" height="492" frameX="-99" frameY="-32" frameWidth="560" frameHeight="524"/>
+	<SubTexture name="nightflare idle yelloversion0013" x="950" y="1446" width="417" height="524" frameX="-124" frameY="0" frameWidth="560" frameHeight="524"/>
+</TextureAtlas>

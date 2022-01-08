@@ -1,0 +1,30 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		10,
+		10,
+		10
+	],
+	"weekBefore": "weekghostlygang",
+	"startUnlocked": false,
+	"songs": [
+		[
+			"hypnoshock",
+			"dlot",
+			[
+				30,
+				30,
+				30
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "hypnoshock"
+}

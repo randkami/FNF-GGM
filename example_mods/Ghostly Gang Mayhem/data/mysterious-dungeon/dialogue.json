@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "H_Dialogue_Right",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "H_Dialogue_Right",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF, huh? Odd name, i've never seen your face around."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "H_Dialogue_Right",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, we need to ask you to go on your way. We're busy handling our own problems already."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo ba bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "H_Dialogue_Right",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A rap battle? Well... i guess i don't see why not. This won't take long."
+		}
+	]
+}
