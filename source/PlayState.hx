@@ -3162,15 +3162,15 @@ class PlayState extends MusicBeatState
 					var winterHorrorlandNext = (Paths.formatToSongPath(SONG.song) == "mysterious-dungeon");
 					if (winterHorrorlandNext)
 					{
-						FlxG.sound.play(Paths.sound('sfxdeathbf'));
 						var blackShit:FlxSprite = new FlxSprite(-FlxG.width * FlxG.camera.zoom,
 							-FlxG.height * FlxG.camera.zoom).makeGraphic(FlxG.width * 3, FlxG.height * 3, FlxColor.BLACK);
 						blackShit.scrollFactor.set();
 						add(blackShit);
 						camHUD.visible = false;
+
+						FlxG.sound.play(Paths.sound('sfxdeathbf'));
 					}
-                    if(winterHorrorlandNext)
-					{
+
 					FlxTransitionableState.skipNextTransIn = true;
 					FlxTransitionableState.skipNextTransOut = true;
 
@@ -3188,7 +3188,6 @@ class PlayState extends MusicBeatState
 					} else {
 						cancelMusicFadeTween();
 						LoadingState.loadAndSwitchState(new PlayState());
-					}
 					}
 				}
 			}
